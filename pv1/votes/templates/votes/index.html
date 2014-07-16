@@ -1,0 +1,18 @@
+<p><strong>Users</strong></p>
+<table border='5' cellpadding='5' align='centre'>
+	<tr><th>ID</th><th>Project Name</th><th>UP Voted Projects</th><th>DOWN Voted Projects</th><th>&nbsp;</th><th>&nbsp;</th></tr>
+{% if latest_Votes_list %}
+    {% for p in latest_Votes_list %}
+        <tr>
+			<td><a href="{% url 'detail' p.id %}">{{p.id}}</a></td>
+			<td>{{p.name}}</td>
+			<td>{{p.up_voted_to}}</td>
+			<td>{{p.down_voted_to}}</td>
+			<td><a href="{% url 'details' p.id %}">Voted To</a></td>
+			<td><a href="{% url 'result' p.id %}">Recommended</a></td>
+        </tr>
+    {% endfor %}
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}
+</table>

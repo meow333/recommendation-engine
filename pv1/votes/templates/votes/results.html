@@ -1,0 +1,11 @@
+<p><strong>Top 10 people similar to {{p.name}}</strong></p>
+{% for i in peop %}
+	{% if i.id in l %}
+		<br>{{i.name}}
+	{% endif %}
+{% endfor %}
+
+<p><strong>Top 10 Recommended projects for you{{p.name}}</strong></p>
+{% for i in ab %}
+	{{i}}
+{% endfor %}

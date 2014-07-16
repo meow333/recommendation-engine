@@ -1,0 +1,208 @@
+B685 	90409535001 	Aarthikani G 	Invictus Technology Solutions (P) Ltd. 	Seeking Quality of webservice composition in a sematic dimension 	Mr.M.R.Ilango
+B686 	90409535002 	Aarthy T.G. 	Zealsoft Technology Solution (P) LTD 	Kerbose Assisted Authentication in Mobile Ad-Hoc Networks 	Mr.M.R.Ilango
+B687 	90409535003 	Ajay S 	Marshals Point 	Defect Tracking System 	Mr.M.R.Ilango
+B688 	90409535004 	Amreetha K 	Blueberry Software Private Limited. 	A Performance Anomaly Detection and Analysis Framework for DBMS Development. 	Mr.M.R.Ilango
+B689 	90409535005 	Anand K 	Bharat sanchar Nigam Limited 	Automation of H/W Maintenance in BSNL 	Mr.A.Kannan
+B690 	90409535006 	Arockia Mercy M 	Sastra Technologies 	Dolphin – An ERP Solution for the Logistics Industry. 	Mr.A.Kannan
+B691 	90409535007 	Arun Prasath V 	Emsys Inovative Solution Provider 	Ranking Spatial Data by Quality Preferences. 	Mr.A.Kannan
+B692 	90409535008 	Ashadevi S.R 	Galaxy weblinks Ltd., 	Fast Algorithms for Resource allocation in wireless Cellular Networks 	Mr.A.Kannan
+B693 	90409535009 	Balaji M.G. 	Bharat Sanchar Nigam Limited 	Automization of A & P Expenditure Monitoring in BSNL 	Mrs. S. Naga Nandhini Sujatha
+B694 	90409535011 	Balaji V.V. 	Fotronics 	Analysis on Performance Evaluation System of ERP Implementation. 	Mrs. S. Naga Nandhini Sujatha
+B695 	90409535012 	Baskar M 	Sanspareil Getting Innovated 	Automatic Recovery from Security events 	Mrs. S. Naga Nandhini Sujatha
+B696 	90409535013 	Benilda Rani A 	Sofia Infology 	Secure Enterprise Data Sharing Environment 	Mrs. S. Naga Nandhini Sujatha
+B697 	90409535014 	Bowsiabanu S 	Tera Tech 	Crash Recovery Mechanisim for Distributed Network 	Mr. C. Ashok Baburaj
+B698 	90409535015 	Cibani B.R.J. 	Zealsoft Technology Solution 	Robust Authentication and key Agreement Scheme Preserving the Privacy of Secret Key 	Mr. C. Ashok Baburaj
+B699 	90409535016 	Deepika G 	Invictus Technology solution (p) Ltd 	Predicting individual performance in student project teams 	Mr. C. Ashok Baburaj
+B700 	90409535017 	Devi C.S. 	Softlogic Systems 	Data Integrity Proofs In Cloud Computing 	Mr. C. Ashok Baburaj
+B701 	90409535018 	Devishree@sharmila S.M 	Maples ESM 	 Targeted Public Distributed System. 	Mr. S. Suresh Raja
+B702 	90409535019 	Dinakaran A 	Greasers solutions. 	Distributed Cycle Minizamation Protocol Peer To Peer 	Mr. S. Suresh Raja
+B703 	90409535020 	Divya N.S. 	Zealsoft Technology Solution 	Digital Image Forensic Intrinsic via Finger Print. 	Mr. S. Suresh Raja
+B704 	90409535021 	Divya R 	Sofia Infology 	SLA Negotiation system for Webservices. 	Mr. S. Suresh Raja
+B705 	90409535022 	Elango R 	Softlogic Systems 	Towards Secure and Dependable Storage Services in cloud Computing 	Ms. N. Gunaseeli
+B706 	90409535023 	Ganesan N.K. 	Smart Solutions 	Advanced Secured System 	Ms. N. Gunaseeli
+B707 	90409535024 	Ganeshbabu R.R. 	Jai Software Technologies 	Privacy Preserving Collaborative Recommender Systems. 	Ms. N. Gunaseeli
+B708 	90409535025 	Ganesh K.C. 	Web Incarnation Solution 	Global Medifiles Data Retrievals Using Web Services. 	Ms. N. Gunaseeli
+B709 	90409535026 	Ganeshkumar D 	Spade IT 	A Geometric Approach to improving Active Packet Loss Measurement. 	Mr.S.R.Raja
+B710 	90409535027 	Hareeshwar R 	Emsys Innovative Solution Provider 	Modeling and Detection of Camouflaging Worm 	Mr.S.R.Raja
+B711 	90409535029 	Jayaraman P 	Seagullsoft 	CLICON 	Mr.S.R.Raja
+B712 	90409535030 	Jenifer R 	Griantek Technologies PVT Ltd. 	Micro – Invention Management System 	Mr.S.R.Raja
+B713 	90409535031 	Jeyapriya S 	Silicon Harverst Renaissance of Technology 	Detecting Un Authorized  Modification of HTTP Communication Using Stegnography. 	Mr.R.Somaskandan
+B714 	90409535032 	Jeyabharathi A 	Blueberry Software Private Limited 	Optimal Service Pricing for A Cloud Cache. 	Mr.R.Somaskandan
+B715 	90409535033 	John Vincent L 	Sanspareil Getting innovated 	Structure p2p Based Data Management in corporate Networks 	Mr.R.Somaskandan
+B716 	90409535034 	Jothi M 	Elysium Technologies Private Limited 	Text Clustering With Seeds Affinity Propagation. 	Mr.R.Somaskandan
+B717 	90409535035 	Kalidass M 	Claro Soft solutions 	Secured Multicloud Deployment of Computing Clusters For Loosly coupled MFC Applications 	Mrs.R.Uma Maheswari
+B718 	90409535036 	Kanmani M.K. 	Silicon Harvest Renaissance of Technology 	Security and Privacy in Social Network 	Mrs.R.Uma Maheswari
+B719 	90409535037 	Karthickbabu R.C. 	Invictus Techlology Solutions (P) Ltd. 	Query Vector Movement on algorithm with Feature-based similarity using CBIR. 	Mrs.R.Uma Maheswari
+B720 	90409535038 	Karthick L.D 	Emsys Innovative Solution Provider 	Record Matching Over Query Results From Multiple Web Databases. 	Mrs.R.Uma Maheswari
+B721 	90409535039 	Karthick M.A. 	Bharat Sanchar Nigam Limited 	Automization of Fuel Monitoring in BSNL 	Mrs. B. VijayaLakshmi
+B722 	90409535040 	Karthick M.K. 	Smart Solutions 	Spare Parts Management System. 	Mrs. B. VijayaLakshmi
+B723 	90409535041 	Karthikeyan R 	Bharat Sanchar Nigam Limited 	Automization of Scrapping in BSNL 	Mrs. B. VijayaLakshmi
+B724 	90409535042 	Krishnan K.S. 	Fotronics 	Ensuring Data Storage Security In Cloud Computing 	Mrs. B. VijayaLakshmi
+B725 	90409535043 	Krithigamani S 	Sofia Infology 	Stateful webservice Robustness 	Mrs. M.S.C. Sujitha
+B726 	90409535044 	Kumareshbabu J.V. 	Department of Management of Studies. Indian Institute of Science. 	Novel Object Detection Model. 	Mrs. M.S.C. Sujitha
+B727 	90409535045 	Kupendran A.L. 	Smart solutions 	Online Management and Monitoring System for Training Institute 	Mrs. M.S.C. Sujitha
+B728 	90409535046 	Lakshmi N.K. 	Griantek Technologies PVT LTD. 	Utilization of Government Benefits for BPL Familes 	Mrs. M.S.C. Sujitha
+B729 	90409535047 	Lakshmi Narayanan K.J. 	Elysium Technologies Private Limited 	Enabling Public Auditabilty and Data Dynamics for Storage Security in Cloud Computing. 	Mrs. S.S. Sarmila
+B730 	90409535048 	Maheshwari A 	Pacific Blue Technologies Ltd. 	Cipher Mail Server for Intranet 	Mrs. S.S. Sarmila
+B731 	90409535049 	Manikandan K.S. 	Fotronics 	Civil Supply Management System and analysis of Fraud Detection. 	Mrs. S.S. Sarmila
+B732 	90409535050 	Manojkumar C 	Web Incarnation Solution 	Practical Online Intranet Knowledge Management System. 	Mrs. S.S. Sarmila
+B733 	90409535051 	Mohana Raju V.R. 	 I3 Soft Tehnologies 	Active Source Routing Protocol for Mobile Networks 	Mrs. A. Anbuselvi
+B734 	90409535052 	Mujipurrehman M 	Marshals Point 	Personal digital Pressure Measurement 	Mrs. A. Anbuselvi
+B735 	90409535053 	Mythilipriya P 	Blueberry Software Private Limited 	A Knowledge – Driven Approach to Activity Recognition in Smart Homes. 	Mrs. A. Anbuselvi
+B736 	90409535054 	Nirmala M 	Teratech 	Dependability and Rollback Recovery for Composite web service 	Mrs. A. Anbuselvi
+B737 	90409535055 	Padmanaban T 	Fotronics 	Expert Discovery And Interactions in Mixed Service - Oriented Systems. 	Mrs.  B.Geetha
+B738 	90409535056 	Pandipriya R 	MRV Infotech 	Agricultural Diseases Analysis System. 	Mrs.  B.Geetha
+B739 	90409535057 	Paul pandi M 	Invictus Technology Solutions (P) LTD 	Secure Confirmation of sensitive transaction data in modern internet banking services. 	Mrs.  B.Geetha
+B740 	90409535058 	Prabhu B 	Fotronics 	Preserving Source-Location Privacy in Wireless Sensor Networks 	Mrs.  B.Geetha
+B741 	90409535059 	Pradeepa S        	Fotronics 	Mechanism Design-Based Secure Leader Election Model for Intrusion Detection in MANET 	Mrs.  R.Kiruthika
+B742 	90409535060 	Prakash T 	Bharat Sanchar Nigam Limited 	Automization of Welfare Management in BSNL 	Mrs.  R.Kiruthika
+B743 	90409535061 	Prasanth T 	Emsys Innovative Solution Provider 	A Supervised Framework for Keyword Extraction from Meeting Transcripts 	Mrs.  R.Kiruthika
+B744 	90409535062 	Premkumar T.R. 	Emsys Innovative Solution Provider 	Tracking Anonymous Peer-to-peer VoIP Calls on the internet 	Mrs.  R.Kiruthika
+B745 	90409535063 	Rajesh D 	Fotronics 	Software for Customer Engineering in Issue Tracking System 	Mr. P.Ganesh Babu
+B746 	90409535064 	Ramkumar R.R. 	Gomi Real IT 	Mobile Content Management System 	Mr. P.Ganesh Babu
+B747 	90409535065 	Ramlal K.K. 	Elysium Technologies Private Limited 	Nymble: Blocking Misbehaving Users In Anonymize Network( Cloud Computing) 	Mr. P.Ganesh Babu
+B748 	90409535066 	Ramraj T.J. 	Bharat Sanchar Nigam Limited. 	Automization of Annual Maintenance Contract Register in BSNL 	Mr. P.Ganesh Babu
+B759 	90409535067 	Ramya K 	Department of Management Studies. Indian Institute of Science. 	Novel Automatic Enhancement System (NAES) 	Mrs.B.Subashini
+B750 	90409535068 	Rasidha Begam M 	IDreams Infotech 	Secure Data Transfer Using Push E-Mail Technology (Mailfetcher) and Mail on Mobile. 	Mrs.B.Subashini
+B751 	90409535069 	Rubini A.R. 	Docser Technologies (P) Ltd. 	Human Intrusion Detection System. 	Mrs.B.Subashini
+B752 	90409535070 	Sarath B 	Bharat Sanchar Nigam Limited 	Automizationof E.B.Deposit in BSNL 	Mrs.B.Subashini
+B753 	90409535071 	Saravanan A 	Invictus Technology Solutions (P) Ltd. 	Forsenic Web Services Framework. 	 Mrs.R.Baby Munirathinam
+B754 	90409535072 	Seeni Sheik Mohamed J 	Department of Management Studies India Institute of Science 	Image Feature Representation System 	 Mrs.R.Baby Munirathinam
+B755 	90409535073 	Senthilnathan T.S.B. 	Smart Solutions 	Vehicle Insurance Premium Maintenance System 	 Mrs.R.Baby Munirathinam
+B756 	90409535074 	Shanmuga Priya S 	Griantek Technologies PVT Ltd., 	Bot control and Monitory Using captcha system “Completely Automatic Public Truing Test to tell Computers and Hunmans Apart” (CAPTCHA) 	 Mrs.R.Baby Munirathinam
+B757 	90409535075 	Shanthi K 	Griantek Technologies PVT Ltd 	Remote Based Schema Transfer 	Mrs.N.Ravia Shabnam Parveen
+B758 	90409535076 	Sindhuja N.D. 	MRV Infotech 	Vehicle Monitoring and Image Scanning System with ATM Card 	Mrs .N.Ravia Shabnam Parveen
+B769 	90409535077 	Srithar M 	Cegonsoft PVT. Ltd., 	Cloud Computing Network-Admin On Cloud Mine 	Mrs .N.Ravia Shabnam Parveen
+B760 	90409535078 	Subha S.S. 	Eminent Technology Solution 	Superseding BNearest Neighbour Search on Uncertain Spatial Database. 	Mrs .N.Ravia Shabnam Parveen
+B761 	90409535079 	Suganyadevi G 	Blueberry Software Private Limited 	Sign Board Translator. 	 Mrs. P. Shyamala
+B762 	90409535080 	Suseenthran S 	Red Corpit 	Blocking Misbehaviour Users In Anonymizing Network 	 Mrs. P. Shyamala
+B763 	90409535081 	Thanigaivel rajan P 	Invictus Technology Solution (P) Ltd., 	Personalizing web community Directories based on web usage Data. 	 Mrs. P. Shyamala
+B764 	90409535082 	Umamaheshwari S 	Dona Software Consultancy 	Web Enabled Supply Chain Management 	 Mrs. P. Shyamala
+B765 	90409535083 	Venkatesh M.R. 	BlueGenie Technologies 	Augmented reality based on GPS 	Mrs.R.S.Selveeshwari
+B766 	90409535084 	Vidhya R 	Elysium Technologies Private Limited 	Customer Review Online MiningUsing Ranking Algorithm 	Mrs.R.S.Selveeshwari
+B767 	90409535085 	Vijay prakash B 	Elysium Technologies Private Limited 	Real Time Portscan Detection For IP Backbone 	Mrs.R.S.Selveeshwari
+B768 	90409535086 	Vijayakumar T 	Fotronics 	Credit Card Fraud Detection using Hidden Markov Model 	Mrs.R.S.Selveeshwari
+B769 	90409535087 	Vijayalakshmi V 	Department of Management Studies Indian Institute of Science. 	Novel Automatic Segmentation System (NASS) 	Mr.M.R.Ilango
+B770 	90409535088 	Vinothkumar K.H. 	Fotronics 	Development of An integrated system for Automated Network Administration in stock 	Mr.A.Kannan
+B771 	90409535089 	Vinoth S.S. 	Fotronics 	An Integrated Approach for Trust Management in sematic Web Based Claim 	Mrs. S. Naga Nandhini Sujatha
+B772 	90409535090 	Vishukumar O.K. 	Invictus Technolog solutions (P) Ltd. 	Enhancing Security of Web Service against WSDL Threats. 	Mr. C. Ashok Baburaj
+B773 	90409535091 	Yoga sathiyan S 	BlueGenie Technologies 	M-Handle [ Mobile Handle] 	Mr. S. Suresh Raja
+B567 	90408535001 	ABDUL JABBAR  A G 	EVES TECHNOLOGY 	BIOMETRIC AUTHENTICATION FOR PUBLIC DISTRIBUTION SYSTEM		Mr.MR.Ilango
+B568 	90408535002 	ARAVINDHAN  J 	SRI RAMAKRISHNA MATH 	ONLINE BOOK SALES WITH MOBILE SMS 	Mr.MR.Ilango
+B569 	90408535003 	ARCHANA J V 	JI SOFT 	ELECTRICAL CONTROL APPLICATION USING EMBEDDED & GSM 	Mr.MR.Ilango
+B570 	90408535004 	ARUN KUMAR P 	GRAINTEK TECH PVT LTD 	ANTI-MONEY LAUNDERING SYSTEM 	Mr.MR.Ilango
+B571 	90408535006 	ARUNLAL  T  K 	HP 	FRIENDLY CODING STANRDADS AND REVIEWERS 	Mr.MR.Ilango
+B572 	90408535007 	ASHA MAI C 	JI SOFT 	GLOBAL OBJECT LOCATOR AND CONTROLLER 	Ms.R.SELVEESWARI
+B573 	90408535008 	ATHILAKSHMI  S 	SILICON HARVEST 	ENHANCED MAINTENANCE ARCHITECTURE IN E-COMMERCE SERVER 	Ms.R.SELVEESWARI
+B574 	90408535009 	AYYANAN G 	INFOTEK 	SOCIAL NETWORKING WEB SERVICE 	Ms.R.SELVEESWARI
+B575 	90408535010 	BABU A 	COSMOSOFT TECHNOLOGIES LIMITED 	SCHEDULING CONCURRENT BAG-OF-TASKS APPLICATIONS OF HETEROGENEOUS PLATFORMS 	Ms.R.SELVEESWARI
+B576 	90408535011 	BALAJI B L 	TURNSOFT 	BLUETOOTH ENABLED MOBILE PHONE REMOTE CONTROL FOR PC 	Ms.R.SELVEESWARI
+B577 	90408535012 	BALAKUMAR  R 	JI SOFT 	MOBILE CULMINATING APPLICATIONS 	Mr.A.Kannan
+B578 	90408535013 	BHARATH  P 	RAIM TECNLOGIES 	SUPER DIFFUSIVE BEHAVIOR OF MOBILE NODES AND ITS IMPACT ON ROUTING PROTOCOL PERFORMANCE 	Mr.A.Kannan
+B579 	90408535014 	DEEPIKA S 	1 SOFT 	PILLS PRESCRIBER 	Mr.A.Kannan
+B580 	90408535015 	DHIVYA  V 	JI SOFT 	MOBILE VNC 	Mr.A.Kannan
+B581 	90408535016 	DINESH BABU A V 	HASTECH 	SELECTION OF WEB SERVICE WHICH IMPREMENTATION Qos CONSTRAINTS 	Mr.A.Kannan
+B582 	90408535017 	DIVYARANI  S S 	1 SOFT 	CONSTRUCTION PLUS 	Mrs. S. Naga Nandhini Sujatha
+B583 	90408535018 	ESWARAN  M 	PRODIGITAL SOLUTIONS 	WAMP SERVER ADMINISTRATION 	Mrs. S. Naga Nandhini Sujatha
+B584 	90408535019 	GNANESWARAN  T R 	STREAM SYSTEM 	COMMUNITY DIGITAL MODEL 	Mrs. S. Naga Nandhini Sujatha
+B585 	90408535020 	GOPAL  K 	PACIFIC BLUE TECHNOLOGIES LTD 	ONLINE POLLING USING FINGERPRINT 	Mrs. S. Naga Nandhini Sujatha
+B586 	90408535021 	GOVINDHARAJAN N G 	TERNSOFT TECHNOLOGIES 	DEVELOPING GIS SOFTWARE WITH COMPONENT TECHNIQUE 	Mrs. S. Naga Nandhini Sujatha
+B587 	90408535022 	INDIRA GANDHI  A 	PRODIGITAL SOLUTIONS 	BUG TRACKING SYSTEM 	Mr. C. Ashok Baburaj
+B588 	90408535023 	JEGATHEESWARAN  B S 	DOCSER TECHNOLOGIES PVT LTD 	MAGIC NET:HUMAN IMMUNE SYSTEM AND NETWORK SECURITY SYSTEM 	Mr. C. Ashok Baburaj
+S.NO 	REG.NO. 	NAME OF THE STUDENT 	NAME OF THE COMPANY 	TITLE OF THE PROJECT 	NAME OF THE GUIDE
+B589 	90408535024 	JEYA MURUGAN B 	SHARE INFOTECH 	ONLINE REAL ESTATE AND PROPERTY MANAGEMENT SYSTEM 	Mr. C. Ashok Baburaj
+B590 	90408535025 	KALIDASS C 	SRS INFOSYSTEMS 	ASYNCHRONOUS MESSAGING BETWEEN WEB SERVICES USING SSDL 	Mr. C. Ashok Baburaj
+B591 	90408535026 	KANAGESWARI  M S 	HP 	FRIENDLY CODING STANDARDS REVIEWER 	Mr. C. Ashok Baburaj
+B592 	90408535027 	KARTHICK DINESH  M  K 	EVES TECHNOLOGY 	CONCEPTUAL REGIME MASTER 	Mr. S. Suresh Raja
+B593 	90408535028 	KARTHICK  T V 	MICRO TRACK INDUSTRIAL 	MOBILE WEB SERVICES IN HEALTH CARE 	Mr. S. Suresh Raja
+B594 	90408535029 	KARTHICK  P R 	AKRANTA SOFTWARE TECHNOLOGIES PVT LIMITED 	INDUSTRIAL SAFETY INSPECTION SYSTEM 	Mr. S. Suresh Raja
+B595 	90408535030 	KARTHIK KUMAR  N  E 	INSTA BANX SOLUTIONS 	SNIFFER MAIL IN PROJECT MANAGEMENT 	Mr. S. Suresh Raja
+B596 	90408535031 	KARTHIK KUMAR  S M 	UNIQUE SOFTWARE & NETWORK TECHNOLOGIES PVT LTD 	DISTRIBUTED DENIAL OF SERVICES 	Mr. S. Suresh Raja
+B597 	90408535032 	KARTHIK B R 	ZEAL SOFT TECHNOLOGY SOLUTION 	GRIMACY ANALYSER 	Ms. N. Gunaseeli
+B598 	90408535033 	KARTHIK  P J 	CANDELASOFT TECHNOLOGIES 	IDEA COINBOX ENCLOSING SOFTWARE 	Ms. N. Gunaseeli
+B599 	90408535034 	KARTHIK G R 	SMART SOLUTION 	A PREDICTABLE HIGH PERFORMANCE COMPUTING USING FEEDBACK ANDADMISSON CONTROL 	Ms. N. Gunaseeli
+B600 	90408535035 	KARTHIKA R 	PORAS TECHNOLOGY 	WEB SEARCH ENGINE 	Ms. N. Gunaseeli
+B601 	90408535036 	KARTHIKEYAN  R 	PACIFIC BLUE TECHNOLOGY LIMITED 	ONLINE MICRO INVENTION MANAGEMENT SYSTEM 	Ms. N. Gunaseeli
+B602 	90408535037 	KAVITHA  S R 	SCRUMSYS 	AN ISP FRIENDLY FILE DISTRIBUTION PROTOCOL ANALYSIS, DESIGN AND IMPLEMENTATION 	Mr. S.R. Raja
+B603 	90408535038 	KAYALVIZHI  M 	DIGISOURCE SOLUTIONS 	E-BUSINESS INFORMATION SHARING USING EXTRANET 	Mr. S.R. Raja
+B604 	90408535039 	KISHORE BABU  A V 	MULTI PIXEL TECHNOLOGY PVT.LTD 	BANDWIDH ESTIMATION USING PRIORITY SCHEDULING ALGORITHM 	Mr. S.R. Raja
+B605 	90408535040 	KRISHNAKUMAR T S 	ENVISION MOBILITY 	SALES AND INVOICE TRACKING SYSTEM 	Mr. S.R. Raja
+B606 	90408535041 	KRISHNAPRIYA  C  R 	PRODIGITAL SOLUTIONS 	E-REQUEST COURSES CO-ORDINATION SYSTEM 	Mr. S.R. Raja
+B607 	90408535042 	LALITHA LAKSHMI S 	AAUM RESEARCH & ANALYTICS-IITM RESEARCH PARK 	ENABLING ROBUST DATA COLLECTION 	Mr. R. Somaskandan
+B608 	90408535043 	MATHAVARAMAN  T  R 	AKRANTA SOFTWARE SOLUTION PVT. LTD 	DOCUMENT MANAGER 	Mr. R. Somaskandan
+B609 	90408535044 	MANI SANKAR  C 	MICRO TRACK INDUSTRIES 	SECURITY ANALYSIS OF TWO PASSWORD AUTHENTICATION SCHEMA 	Mr. R. Somaskandan
+B610 	90408535045 	MANIKUMAR M 	HASTECH TECHNOLOGY 	ACCURATE IMAGE SEARCH USING CONTEXTUAL DISSIMILARITY MEASURE 	Mr. R. Somaskandan
+B611 	90408535046 	MANOJ KUMAR  R  R 	UNIQUE SOFTWARE & NETWORK TECHNLOGIES 	INFORMATION BASED QUERIES IN MOBILE ENVIRONMENT 	Mr. R. Somaskandan
+B612 	90408535047 	MATHANAGOPAL  N  H 	CEGONSOFT PVT LTD BANGALORE 	CONTRIVANCE PLANNING MANAGEMENT 	Mrs.R.Uma Maheswari
+B613 	90408535048 	MATHIVANAN  N 	SRS SOFTWARE SOLUTION 	COMPARTMENTED SECURITY FOR BROWSER THWART PHISHER 	Mrs.R.Uma Maheswari
+B614 	90408535049 	MEENA KUMARI  R  S 	AJ SQUARE INC 	LYRICS 	Mrs.R.Uma Maheswari
+B615 	90408535050 	MICHLIN SEOUL  A 	NATIONAL INFORMATION CENTRE, 	RURAL SOFT ONLINE 	Mrs.R.Uma Maheswari
+B616 	90408535051 	MUNEESWARAN  N 	VIJAYALAKSHMI HITECH SOLUTION 	CREDIT CARD SYSTEM 	Mrs.R.Uma Maheswari
+B617 	90408535052 	MURALI  N  C 	APPLIED MATERIALS 	EXCITE 3X TEST AUTOMATION 	Mrs. B. Vijaya Lakshmi
+B618 	90408535054 	MUTHU MANI V 	DATA ALCOTT 	POWER CONTROL SYSTEM 	Mrs. B. Vijaya Lakshmi
+B619 	90408535055 	MUTHU RASU  N 	ELYSIUM TECHNOLOGIES PVT LTD 	ONLINE COUPON MANAGEMENT 	Mrs. B. Vijaya Lakshmi
+B620 	90408535056 	MUTHUKUMAR M 	SANSPAREIL TECHNOLOGIES 	NETWORK MONITORING SYSTEM 	Mrs. B. Vijaya Lakshmi
+B621 	90408535057 	MUTHURAJA  P 	AKAANTA SOFTWARE TECHNOLOGIES PVT LTD 	  ORGANIZATIONAL PERFORMANCE MONITORING SYSTEM   	Mrs. B. Vijaya Lakshmi
+B622 	90408535058 	NANDHINI  T R 	PACIFIC BLUE TECHNOLOGIES LTD 	BOT CONTROL AND MONITORY USING CAPTCHA SYSTEM 	Mrs. M.S.C. Sujitha
+B623 	90408535059 	NELSON MANDELA  V 	DIABETIC FOOT CARE INDIA 	HEALTH CARE SYSTEM 	Mrs. M.S.C. Sujitha
+B624 	90408535060 	NIVETHA V 	CMTD 	HOUSING & CAR LEASE MANAGEMENT TOOL 	Mrs. M.S.C. Sujitha
+B625 	90408535061 	OMPRAKASH  A  K 	AKVANTA TECHNOLOGY PVT LTD 	EQUIPMENT PERFORMANCE TRACKER 	Mrs. M.S.C. Sujitha
+B626 	90408535062 	PANDI DEVI  A 	JS SOFTWARE TECHNLOIES 	E-POST OFFICE SYSTEM 	Mrs. M.S.C. Sujitha
+B627 	90408535063 	POORNISHA G 	1 SOFT 	EASY AUTO INSURER 	Mrs.S.S.Sharmila
+B628 	90408535064 	PRABAHARAN  J 	MICROSUN SOFT 	INTELLIGENCE KNOWLEDGE BASED RETORTER 	Mrs.S.S.Sharmila
+B629 	90408535065 	PRIYA N R 	NOKIA SIEMENS NETWORK 	PROTING OUT SUBSCRIBER’S FROM NETWORK 	Mrs.S.S.Sharmila
+B630 	90408535066 	PYARELAL  T  R 	CANDELASOFT TECHNOLOGY 	  ONLINE WEB BASED ADMINISTRATION WITH SMS SERVICES   	Mrs.S.S.Sharmila
+B631 	90408535067 	RAGHURAMAN  R 	SAYAS TECHNOLOGY 	ROUTING SIMULATOR 	Mrs.S.S.Sharmila
+B632 	90408535068 	RAGUNATH  T H 	UNIQUE SOFT 	CREDIT CARD FRAUD DETECTION 	Mrs. A. Anbuselvi
+B633 	90408535069 	RAMARAJ  P 	SHARE INFOTECH 	SOFTWARE LICENSE MONITORING SYSTEM 	Mrs. A. Anbuselvi
+B634 	90408535070 	ROOBINI S R 	RAAGA SOFTWARE CONSULTANCY SERVICES 	SERVICE FLOW AUTOMATION 	Mrs. A. Anbuselvi
+B635 	90408535071 	SABHARISH  P S 	INSTABANX 	THE LOST ARTICLE RECONCINALITION SYSTEM 	Mrs. A. Anbuselvi
+B636 	90408535072 	SANTHOSH KUMAR S 	TESPA INDIA PVT LTD 	HUMAN RESOURCES AND PAYROLL MANAGEMENT SOLUTIONS FOR ERP 	Mrs. A. Anbuselvi
+B637 	90408535073 	SARADHA  K B 	DIGI SOURCE SOLUTION PVT LTD 	REAL TIME GROUP EDITOR 	Mrs.  B.Geetha
+B638 	90408535074 	SARATH BABU  K 	TIMES TECHNOLOGIES 	CRYPTOKIT 	Mrs.  B.Geetha
+B639 	90408535075 	SASIKUMAR  R 	NAL 	PROJECT AND COST MANAGEMENTAPPLICATION FOR MANUFACTURING ARICRAFT COMPOSITE COMPUNDING 	Mrs.  B.Geetha
+B640 	90408535076 	SATHEESH BABU  T G 	TARGET SOFTWARE SOLUTION 	CORPORATE ID TRACKING SYSTEM 	Mrs.  B.Geetha
+B641 	90408535077 	SATHISH KUMAR R 	XLNC INFO TECHNOLOGY SOLUTION PVT LTD 	WEB BASED CONTENT TRACKING SYSTEM 	Mrs.  B.Geetha
+B642 	90408535078 	SATHISH KUMAR  S 	INSTABAX SOLUTION 	WEB BASED REMOTE DATABASE ADMINISTRATION 	Mrs.  R.Kiruthika
+B643 	90408535079 	SATHYAVATHI  K 	HP 	ROAMEX PROJECT 	Mrs.  R.Kiruthika
+B644 	90408535080 	SELVA KUMAR N 	MICRO SUNSOFT 	PERSONAL BUSINESS INTELLIGENCE ORGANIZER 	Mrs.  R.Kiruthika
+B645 	90408535081 	SENTHIL  K N 	PORALSOFT 	REMOTE MONITORING SYSTEM 	Mrs.  R.Kiruthika
+B646 	90408535082 	SENTHIL NAYAKI  N 	DIGISOURCE SOLUTION 	DISK PROCESSING USING MOBILE SIGNALS 	Mrs.  R.Kiruthika
+B647 	90408535083 	SENTHIL RAO  A R 	MICROTECH SOLUTION 	MOBILE TO PC COMMUNICATION & VICE VERSA 	Mr. P.Ganesh Babu
+B648 	90408535084 	SHARAFATH NISHA  K 	HP 	CREATION OF A OS WRAPPER FOR THE FLEX UI 	Mr. P.Ganesh Babu
+B649 	90408535085 	SHENOZ DHEEN   S 	ELYSIUM TECHNOLOGIES 	HIGH YIELD INVESTMENT PLAN (HYIP) 	Mr. P.Ganesh Babu
+B650 	90408535086 	SHOBANA KALAI PRIYA  M 	TIMES TECHNOLOGIES 	CLOUD SUPPORT SYSTEM 	Mr. P.Ganesh Babu
+B651 	90408535087 	SHYAMALA DEVI A S 	4S SOFTWARE SOLUTION 	BIO-AUTHENTICATION BASED HUMAN HEALTH CARE SYSTEM 	Mr. P.Ganesh Babu
+B652 	90408535088 	SIVA GANESHAN R 	GREAT INNOVUS SOLUTIONS 	LANGUAGE TRANSLATION FOR GOLLGLE ANDROID PLATFORM   	Mrs.S.Vijaya lakshmi
+B653 	90408535089 	SIVA SANKARI V M 	ADROIT SOLUTIONS 	CRYPTOGRAPHY IN GSM MOBILE COMMUNICATION 	Mrs.S.Vijaya lakshmi
+B654 	90408535090 	SIVATHARSINI  M 	MEENUM SOFTWARE SOLUTIONS 	E-HEALTHCARE 	Mrs.S.Vijaya lakshmi
+B655 	90408535091 	SNEKAN S T 	MICROSUN SOFT 	FILE TRACKING SYSTEM 	Mrs.S.Vijaya lakshmi
+B656 	90408535092 	SRIKANTH   M  S 	ELYSIUM TECHNOLOGIES PVT LTD 	INFORMATION SECURITY FOR ONLINE GAMS 	Mrs.S.Vijaya lakshmi
+B657 	90408535093 	SUDHARSAN  S S 	MICROHOUSE SOLUTION 	MOBILE BANKING 	Mrs.B.Subhasini
+B658 	90408535094 	SUNITHA  J  S 	INTEGRITY INDIA SOFTWARE SOLUTION 	ERP BUILDING FOR FLOWER ENTERPRISE 	Mrs.B.Subhasini
+B659 	90408535095 	SURESH BABU  M  P 	MANI INDIA TECHNOLOGY 	MAP APPLICATION IN ANORIOD DEVELOPMENT 	Mrs.B.Subhasini
+B660 	90408535096 	SURESH  M 	GRAINE TECHOLOGY 	AUTOMATION OF GOVERNMENT ADMINISTRATION 	Mrs.B.Subhasini
+B661 	90408535097 	SURESH  M 	PRAKASH ENGINERRING WORKS 	DESIGNING AND IMPLEMENTING AN ERP 	Mrs.B.Subhasini
+B662 	90408535098 	SURESH KUMAR  T 	NAL 	WEB-BASED COST ESTIMATION OF AIRCRAFT COMPOSITE COMPONENTS   	Mrs.  R.Baby Munirathinam
+B663 	90408535099 	THANGA MANI  J 	SANSPAREIL TECHNOLOGIES 	CONTENT MANAGEMENT SYSTEM 	Mrs.  R.Baby Munirathinam
+B664 	90408535100 	THANGAMEENAKSHI R 	TIMES TECHNOLOGIES 	AUTOMATED ISSUE ANALYZER BY AJAX 	Mrs.  R.Baby Munirathinam
+B665 	90408535101 	THAVAMANI M 	PACIFIC BLUE TECHNOLOGY 	REMOTE BASED SCHEMA TRANSFER 	Mrs.  R.Baby Munirathinam
+B666 	90408535102 	UDHAYAKUMAR  M 	SARAN ADVERTISHING AGENCY 	WEB APPLICATION FOR AD GLOBOLIZATION 	Mrs.  R.Baby Munirathinam
+B667 	90408535103 	VAISHNAVI  L  G 	INVICTUS TECHNOLOGY 	PRIVACY PRESENTATION AN INFORMATION THEORITIC APPROACH OLAP 	Mrs .N.Ravia Shabnam Parveen
+B668 	90408535104 	VAISHNAVI P S 	GRIAN TECHNOLOGIES PVT LTD 	EEG DETECTION USING ARTIFICIAL NEURAL NETWORK 	Mrs .N.Ravia Shabnam Parveen
+B669 	90408535105 	VAISHNAVI T S 	RAAGA SOFTWARE CONSULTANCY SERVICES 	FINANCIAL LENDING EXPERT SYSTEM 	Mrs .N.Ravia Shabnam Parveen
+B670 	90408535106 	VASANTH BABU  E  R 	AKRANTA SOFTWARE TECHNLOGIES PVT LTD 	VISUAL TUTOR DEVELOPMENT KIT 	Mrs .N.Ravia Shabnam Parveen
+B671 	90408535107 	VENGATESH  T R 	1SOFT TECHNOLOGIES 	LUXURY RAFFLE 	Mrs .N.Ravia Shabnam Parveen
+B672 	90408535108 	VENKATALAKSHMI G 	BSNL MADURAI 	BROADBAND NETWORK FAULT MONITORING 	Ms.J.J.Praveena
+B673 	90408535109 	VENKATESH KUMARAN A J 	TERNSOFT 	DETECTION OF SPYWARE BY MINING EXECUTABLE FILES 	Ms.J.J.Praveena
+B674 	90408535110 	VENKATESH P M 	XLNC INFO TECH SOLUTIONS PVT LTD 	CIPHER MAIL SERVER FOR INTERNET 	Ms.J.J.Praveena
+B675 	90408535111 	VENKATESH R 	UNIQUE SOFTWARE AND NETWORK TECHNOLOGIES PVT LTD 	WATERMARK BASED AUTHENTICATION 	Ms.J.J.Praveena
+B676 	90408535112 	VENKATESH  V  R 	MICROTECH SOLUTION 	DESIGN OF MOBILE ELECTRONIC COMMERCE SYSTEM 	Ms.J.J.Praveena
+B677 	90408535113 	VIGNESHWARAN  S 	AKRANTA TECHNLOGIES PVT LTD 	EMPLOYEE OJT MONITORING SYSTEM 	Mrs.P.Shyamala
+B678 	90408535114 	VIJAYAKUMAR R R 	MICROTECH SOLUTION 	WIRELESS CONTEXT MANAGEMENT (WICOM) FOR MOBILE DEVICE 	Mrs.P.Shyamala
+B679 	90408535115 	VIJAYAKUMAR  N 	NAL 	KEY AGREEMENT FROM RANDOM BINARY SEQUENCES USING WEAK INTERACTIONS 	Mrs.P.Shyamala
+B680 	90408535116 	VIKASH SAGAR  A  G 	APPLIED MATERIALS 	INSTALLSHIELD TROUBLESHOOTING AND DEVELOPEMENT 	Mrs.P.Shyamala
+B681 	90408535117 	VINAYAGA MUTHU  D 	SENJOS TECHNLOGY 	CLIENT CONTROL 	Mr. N.V. Saravanan
+B682 	90408535118 	VINOTHINI P B 	4S SOFTWARE SOLUTION 	LIBRARY MANAGEMENT WITH FACE RECOGNITION 	Mr. N.V. Saravanan
+B683 	90408535119 	WAHITHA  A 	POROS TECHNOLOGIES 	INTEGRATED BIOMETERIC VOTING SYSTEM 	Mr. N.V. Saravanan
+B684 	90408535120 	YADEESH KUMAR K M 	HP 	FRIENDLY CODING STANDARDS REVIEWER 	Mr. N.V. Saravanan
